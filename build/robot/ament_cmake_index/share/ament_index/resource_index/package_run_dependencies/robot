@@ -1,0 +1,1 @@
+rclpy;std_msgs;python3-serial;libstdc++6;python3.8;unitree_legged_msgs;ament_lint_auto;ament_lint_common

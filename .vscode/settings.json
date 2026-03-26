@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/home/i-mini900/dog/dog_ws/src/robot",
+    "ROS2.distro": "humble"
+}
