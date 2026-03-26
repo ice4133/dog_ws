@@ -1,6 +1,0 @@
-{
-  "package_name": "unitree_legged_msgs",
-  "non_idl_tuples": [
-    "/home/i-mini900/dog/dog_ws/src/unitree_legged_msgs:msg/MotorState.msg"
-  ]
-}
