@@ -6,7 +6,7 @@ import os
 
 def generate_launch_description():
     # ===================== 基础路径定义（保留你的原有配置，一行没改） =====================
-    WS_PATH = "/home/i-mini900/dog/dog_ws"
+    WS_PATH = "/home/ice/my_dog/dog_ws"
     SRC_ROBOT_PATH = os.path.join(WS_PATH, "src", "robot", "robot")  # 源码路径
     INSTALL_ROBOT_PATH = os.path.join(WS_PATH, "install", "robot", "lib", "robot")  # 安装路径
 

@@ -8,7 +8,6 @@ from datetime import datetime
 
 # 现在可直接导入（Colcon已配置好路径）
 from unitree_actuator_sdk import *
-from Robot_go import *
 
 motor_init = [0]*12
 count = 0
